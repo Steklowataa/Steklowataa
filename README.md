@@ -13,3 +13,7 @@ I am a Computer Science student at WSEI in Kraków, passionate about web and mob
 ## Get in Touch 📮
 
 lahodiuk.oleksandra@gmail.com
+
+## My Figma portfolio 💞
+
+https://shorturl.at/9Cp1n
