@@ -4,11 +4,11 @@ I am a Computer Science student at WSEI in Kraków, passionate about web and mob
 
 ## Skills 💻
 
-- Frontend: JavaScript, React, Next.js, HTML, CSS, Tailwind CSS
+- Frontend: JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, React Native
 - Backend: C#, Python
 - Database: SQL Server, PostgreSQL 
 - Tools: Git, GitHub, Postman, JetBrains IDEs 
-- Design: Figma, Adobe Photoshop
+- Design: Figma, Blender
 
 ## Get in Touch 📮
 
@@ -16,4 +16,4 @@ lahodiuk.oleksandra@gmail.com
 
 ## My Figma portfolio 💞
 
-https://shorturl.at/9Cp1n
+https://www.figma.com/design/kXq1HhKFzfMyOBeImX4nJr/portfolio?node-id=269-1093&m=dev&t=WmQzeQaKJuRWpsa2-1
